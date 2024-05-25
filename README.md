@@ -36,7 +36,5 @@ Columns in the dataset:
 - **Cabin**: Cabin number
 - **Embarked**: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-### Troubleshooting
-Ensure the dataset is correctly uploaded to Colab and the necessary packages are imported if issues arise.
-
+I hope this projecthelpful and informative.
 Happy analyzing!
